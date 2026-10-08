@@ -78,6 +78,4 @@ Custom reading arguments: `temp_c humidity_pct water_level_pct delta_level delta
 - [ ] Time-series model for leak forecasting
 - [ ] Multi-zone monitoring
 
-## License
 
-MIT
